@@ -1,7 +1,7 @@
 
 # 🚀 StartupOS – Your AI-Powered Co-Founder
 
-**StartupOS** is the world’s first **AI-powered operating system** designed exclusively for early-stage startups. It helps founders overcome execution challenges, make data-backed decisions, and scale efficiently — all from a unified platform powered by **GenAI**, **LLMs**, **LangChain**, **LangGraph**, and **predictive analytics**.
+**StartupSense** is the world’s first **AI-powered operating system** designed exclusively for early-stage startups. It helps founders overcome execution challenges, make data-backed decisions, and scale efficiently — all from a unified platform powered by **GenAI**, **LLMs**, **LangChain**, **LangGraph**, and **predictive analytics**.
 
 > 💡 "Startups don’t fail because of a lack of ideas — they fail due to poor execution, misaligned decisions, and lack of strategic direction. StartupOS fixes that."
 
@@ -9,7 +9,7 @@
 
 ## 🧠 Project Overview
 
-**StartupOS** is a full-stack **SaaS platform** built with a mission to **empower early-stage startups** through AI-driven strategy, execution automation, market intelligence, and real-time consultation.
+**StartupSense** is a full-stack **SaaS platform** built with a mission to **empower early-stage startups** through AI-driven strategy, execution automation, market intelligence, and real-time consultation.
 
 It combines the power of:
 - 🧠 Large Language Models (LLMs)
@@ -91,11 +91,6 @@ It combines the power of:
 
 > 🔗 [Live Demo (Coming Soon)](https://your-demo-link.com)
 
-<p align="center">
-  <img src="/screenshots/dashboard.png" width="600" alt="Dashboard Overview"/>
-  <br/>
-  <i>AI-powered Unified Startup Dashboard</i>
-</p>
 
 ---
 
