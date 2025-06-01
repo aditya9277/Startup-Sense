@@ -1,5 +1,5 @@
 
-# 🚀 StartupOS – Your AI-Powered Co-Founder
+# 🚀 StartupSense – Your AI-Powered Co-Founder
 
 **StartupSense** is the world’s first **AI-powered operating system** designed exclusively for early-stage startups. It helps founders overcome execution challenges, make data-backed decisions, and scale efficiently — all from a unified platform powered by **GenAI**, **LLMs**, **LangChain**, **LangGraph**, and **predictive analytics**.
 
